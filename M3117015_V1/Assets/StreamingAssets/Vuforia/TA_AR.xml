@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Peking" size="200.000000 116.736992" />
+    <ImageTarget name="Bonang_Penerus" size="200.000000 116.736992" />
+    <ImageTarget name="Bonang_Barung" size="200.000000 116.386551" />
+    <ImageTarget name="Gong" size="200.000000 116.386551" />
+    <ImageTarget name="Slenthem" size="200.000000 116.386551" />
+    <ImageTarget name="Saron" size="200.000000 116.386551" />
+    <ImageTarget name="Kethuk-Kempyang" size="200.000000 116.386551" />
+    <ImageTarget name="Kenong" size="200.000000 116.386551" />
+    <ImageTarget name="Kendang" size="200.000000 116.386551" />
+  </Tracking>
+</QCARConfig>
